@@ -1,0 +1,7 @@
+1 >> DINHEIRO| 3 >> CHEQUE | 4 >> CREDITO| 5 >> DEBITO.
+Tue Jun 12 22:19:36 2018
+/nome:valnei pereira/qts: 12/ perso:jesus eh a vida/ cor:azul/ val:240/ pag:4/Tue Jun 12 22:20:12 2018
+/nome:rodrigo/qts: 100/ perso:vida no nordeste/ cor:roxo/ val:2000/ pag:3/Tue Jun 12 22:20:53 2018
+/nome:arthur/qts: 10/ perso:sou oq sou/ cor:preto/ val:200/ pag:1/Tue Jun 12 22:22:11 2018
+/nome:victor/qts: 1000/ perso:sou hacker 001010 tamanho P/ cor:vermelho/ val:20000/ pag:1/Tue Jun 12 22:37:27 2018
+/nome:adruano borrogo/qts: 15/ perso:qqq/ cor:ssss/ val:300/ pag:4/
